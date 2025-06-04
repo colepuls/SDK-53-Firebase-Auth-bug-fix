@@ -1,4 +1,3 @@
-// metro.config.js  –  Expo SDK 53+
 const { getDefaultConfig } = require('expo/metro-config');
 
 /** @type {import('expo/metro-config').MetroConfig} */
